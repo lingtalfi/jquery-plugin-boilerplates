@@ -11,7 +11,7 @@
 
         var plugin = this;
 
-        plugin.settings = {}
+        plugin.settings = {};
 
         var $element = $(element),
              element = element;

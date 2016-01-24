@@ -32,7 +32,7 @@
         // plugin.settings.propertyName from inside the plugin or
         // element.data('pluginName').settings.propertyName from outside the plugin, 
         // where "element" is the element the plugin is attached to;
-        plugin.settings = {}
+        plugin.settings = {};
 
         var $element = $(element), // reference to the jQuery version of DOM element
              element = element;    // reference to the actual DOM element
