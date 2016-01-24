@@ -1,6 +1,5 @@
 
 
-```js
 (function($) {
 
     $.pluginName = function(element, options) {
@@ -46,4 +45,4 @@
     }
 
 })(jQuery);
-```
+

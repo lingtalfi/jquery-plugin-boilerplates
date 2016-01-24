@@ -1,6 +1,3 @@
-
-
-```js
 // jQuery Plugin Boilerplate
 // A boilerplate for jumpstarting jQuery plugins development
 // version 1.1, May 14th, 2011
@@ -108,4 +105,3 @@
     }
 
 })(jQuery);
-```
