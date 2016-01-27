@@ -20,15 +20,14 @@
 
         plugin.init = function() {
             plugin.settings = $.extend({}, defaults, options);
-            // code goes here
         };
 
         plugin.foo_public_method = function() {
-            // code goes here
+            
         };
 
         var foo_private_method = function() {
-            // code goes here
+            
         };
 
         plugin.init();
