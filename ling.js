@@ -26,9 +26,9 @@
             
         };
 
-        var foo_private_method = function() {
+        function foo_private_method (){
             
-        };
+        }
 
         plugin.init();
 
